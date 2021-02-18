@@ -1,0 +1,22 @@
+{
+  "name": "Go Cash",
+  "network": "1",
+  "symbol": "GOS",
+  "strategies": [
+    {
+      "name": "erc20-balance-of",
+      "params": {
+        "address": "0x3bb34419a8E7d5E5c68B400459A8eC1AFfe9c56E",
+        "symbol": "0xDollar",
+        "decimals": 18
+      }
+    }
+  ],
+  "members": [
+    "0x7ED25a7F03207D46fDb8Ea76d6C1a614D0FF713E"
+  ],
+  "filters": {
+    "defaultTab": "core",
+    "minScore": 0
+  }
+}
