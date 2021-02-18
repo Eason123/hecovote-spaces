@@ -1,6 +1,6 @@
 {
   "name": "Go Cash",
-  "network": "1",
+  "network": "128",
   "symbol": "GOS",
   "strategies": [
     {
